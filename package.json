@@ -1,0 +1,17 @@
+{
+  "name": "dnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.13.5",
+    "lodash": "^4.17.15",
+    "tslint": "^6.1.2"
+  }
+}
